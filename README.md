@@ -65,10 +65,3 @@ This project demonstrates **controlling 4 servo motors using a joystick module o
 
 ---
 
-### License
-
-This project is for **educational and personal use**. Feel free to modify and adapt for your learning and experimentation.
-
----
-
-If you need a **circuit diagram, schematic, or demo GIF for your GitHub**, let me know to prepare them for your repository and presentation.
